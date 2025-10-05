@@ -1,0 +1,5 @@
+/Users/takumi0616/Develop/docker_miniconda/src/TyphoonForecast/document/paper
+
+上記の論文をそれぞれ読んでください
+おんなじ名前でmdファイルで論文の内容を詳細に解説した日本語のファイルを同じディレクトリ上に作成してください（もうすでにある場合は処理を行わなくていいです）
+内容は削ったりせずに正確に日本語訳したものをmdファイルにしてください
